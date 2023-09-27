@@ -14,12 +14,17 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  geocoding: ^2.1.0
+  geolocator: ^10.1.0
+  get: ^4.6.6
+  http: ^1.1.0
+  sleek_circular_slider: ^2.0.1
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
 
   flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
 
 flutter:
   uses-material-design: true
